@@ -1,9 +1,9 @@
-import React, { Component, useState, useEffect } from 'react';
+import React, { useEffect } from 'react';
 import { Button } from '@material-ui/core';
 import * as matter from 'matter-js'
 const Interface = () => {
 
-    const [resetToggle, setResetToggle] = useState(true);
+    // const [resetToggle, setResetToggle] = useState(true);
     const randomInt = (min = 1, max) => {
         min = Math.ceil(min);
         max = Math.floor(max);
@@ -18,9 +18,9 @@ const Interface = () => {
 
         let ground = matter.Bodies.rectangle(randomInt(200, 550), window.innerHeight / 1.5, randomInt(100, 850), randomInt(100, 350), { isStatic: true });
         let boxList = [];
-        let x = 0;
-        let y = 0
-        let regularBox = matter.Bodies.rectangle(x ? x : 0, y ? y : 0, 80, 80);
+        // let x = 0;
+        // let y = 0
+        // let regularBox = matter.Bodies.rectangle(x ? x : 0, y ? y : 0, 80, 80);
 
         let mouse = matter.Mouse.create(render.canvas);
 
