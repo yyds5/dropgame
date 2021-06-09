@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dropgame/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/dropgame/static/js/main.c4b2f021.chunk.js",
+    "main.js.map": "/dropgame/static/js/main.c4b2f021.chunk.js.map",
+    "runtime-main.js": "/dropgame/static/js/runtime-main.eb4d3585.js",
+    "runtime-main.js.map": "/dropgame/static/js/runtime-main.eb4d3585.js.map",
+    "static/js/2.8d4a79ca.chunk.js": "/dropgame/static/js/2.8d4a79ca.chunk.js",
+    "static/js/2.8d4a79ca.chunk.js.map": "/dropgame/static/js/2.8d4a79ca.chunk.js.map",
+    "static/js/3.a245722c.chunk.js": "/dropgame/static/js/3.a245722c.chunk.js",
+    "static/js/3.a245722c.chunk.js.map": "/dropgame/static/js/3.a245722c.chunk.js.map",
+    "index.html": "/dropgame/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/dropgame/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.8d4a79ca.chunk.js.LICENSE.txt": "/dropgame/static/js/2.8d4a79ca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb4d3585.js",
+    "static/js/2.8d4a79ca.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.c4b2f021.chunk.js"
+  ]
+}
